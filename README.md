@@ -1,8 +1,8 @@
 # Hi, I'm Dastan 👋
 
-## AI Engineer in progress | Building AI solutions for businesses
+## AI Engineer | Building AI-powered solutions for businesses
 
-I am focused on designing and building intelligent applications that help businesses automate processes, improve customer experience and increase efficiency.
+I build intelligent systems that help companies automate processes, improve customer experience and create new digital products.
 
 My current focus:
 
