@@ -14,7 +14,16 @@ My current focus:
 
 ---
 
-## 🚀 Current Learning Path
+## 🚀 Currently Building
+
+- AI Business Assistant
+- Tourism AI Automation Tools
+- Full Stack AI Applications
+- SaaS Products
+
+---
+
+## 🧭 Current Learning Path
 
 AI Engineer Roadmap 2026
 
