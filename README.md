@@ -16,10 +16,11 @@ My current focus:
 
 ## 🚀 Currently Building
 
-- AI Business Assistant
-- Tourism AI Automation Tools
-- Full Stack AI Applications
-- SaaS Products
+- AI solutions for tourism businesses
+- Intelligent customer service assistants
+- Business automation workflows
+- Full Stack AI applications
+- SaaS products powered by AI
 
 ---
 
